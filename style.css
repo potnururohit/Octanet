@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.font-bold{
+    font-weight: bold;
+}
+.overflow-hidden{
+    overflow: hidden;
+}
+.img1{
+    height:20vh;
+    align-self: center;
+}
+ .img2{
+    height: 50vh;
+    padding-left: 129px;
+}
+.h{
+ padding: 0 8vw;
+ text-align: center;
+}
+section h2{
+    padding: 2px 0;
+}
+.section3 td{
+    border-bottom: 2px solid;
+}
+.section3 th{
+    border-bottom: 2px solid;
+}
+.section3{
+    padding-top: 10px;
+}
+footer{
+    padding:23px;
+    text-align: center;
+}
